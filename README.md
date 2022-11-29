@@ -1,3 +1,3 @@
 # techupSkillTest
-Byishimo Teto Joseph
-Myanswers on both Coding Challengs
+Byishimo Teto Joseph<br>
+My answers on both Coding Challengs
